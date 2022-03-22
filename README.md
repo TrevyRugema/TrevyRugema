@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TrevyRugema
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning OOP in Python
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me on trevyrugema@gmail.com
+- 📫  reach me on trevyrugema@gmail.com
 
 <!---
 TrevyRugema/TrevyRugema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
